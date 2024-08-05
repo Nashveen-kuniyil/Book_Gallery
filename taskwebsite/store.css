@@ -1,0 +1,27 @@
+.banner{
+    background-image: url(https://cdn.dynamicyield.com/api/8772718/images/1f4e99f7892d3__lfcr_hk2425_ecom_hp_fw_desktop_kit_update.jpg);
+    height: 600px;
+    width: 100%;
+    background-size: cover;
+}
+
+.banner1{
+background-image: url(https://cdn.dynamicyield.com/api/8772718/images/3434e3afdbc4a__lfcr_hk2425_ecom_hp_fw_tablet_training_updated.jpg);
+    height: 600px;
+width: 100%;
+background-size: cover;
+
+}
+
+
+h1{
+    color: red;
+    font-size: 40px;
+    text-align: center;
+}
+
+
+#shp{
+    margin-top: 10px;
+    margin-left: 200px;
+}
